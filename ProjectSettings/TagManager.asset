@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wepon
+  - b1
+  - b2
+  - ammo1
+  - ammo2
+  - health
+  - sheeld
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - background
+  - player
+  - water
+  - spikes
+  - wepons
+  - bullet
+  - collectibles
+  - enemy
+  - box
+  - enemy bullet
+  - post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3336551013
+    locked: 0
+  - name: forground
+    uniqueID: 1027157213
+    locked: 0
+  - name: spikes
+    uniqueID: 3130684689
+    locked: 0
+  - name: player
+    uniqueID: 715999377
+    locked: 0
+  - name: water
+    uniqueID: 2769215419
+    locked: 0
+  - name: wepons
+    uniqueID: 2789243665
+    locked: 0
+  - name: box
+    uniqueID: 3119742637
+    locked: 0
+  - name: collectibles
+    uniqueID: 4240081015
+    locked: 0
+  - name: enemy
+    uniqueID: 3652099919
+    locked: 0
+  - name: bullet
+    uniqueID: 1917905131
+    locked: 0

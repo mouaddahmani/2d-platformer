@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: b87fc38d2e13c2b4c8a296b830b6d6cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 963157757576990040
+    second: TILE MAP FINAL_0
+  - first:
+      213: -4243789978881145982
+    second: TILE MAP FINAL_1
+  - first:
+      213: 6369779809529248259
+    second: TILE MAP FINAL_2
+  - first:
+      213: 5062076110267493294
+    second: TILE MAP FINAL_3
+  - first:
+      213: -6737983951300727868
+    second: TILE MAP FINAL_4
+  - first:
+      213: 4039896015120616907
+    second: TILE MAP FINAL_5
+  - first:
+      213: 3121233901135649099
+    second: TILE MAP FINAL_6
+  - first:
+      213: -8340117638473853898
+    second: TILE MAP FINAL_7
+  - first:
+      213: 8415895116252016131
+    second: TILE MAP FINAL_8
+  - first:
+      213: -5123426876051608006
+    second: TILE MAP FINAL_9
+  - first:
+      213: -6360002055400974402
+    second: TILE MAP FINAL_10
+  - first:
+      213: -7797706001630876434
+    second: TILE MAP FINAL_11
+  - first:
+      213: -7211647688185758451
+    second: TILE MAP FINAL_12
+  - first:
+      213: -2912335833162251398
+    second: TILE MAP FINAL_13
+  - first:
+      213: 5533506946692545760
+    second: TILE MAP FINAL_14
+  - first:
+      213: 6690386030377292703
+    second: TILE MAP FINAL_15
+  - first:
+      213: 611832394464911429
+    second: TILE MAP FINAL_16
+  - first:
+      213: 8521161792304730454
+    second: TILE MAP FINAL_17
+  - first:
+      213: -7452477139247237617
+    second: TILE MAP FINAL_18
+  - first:
+      213: -2025467155382787979
+    second: TILE MAP FINAL_19
+  - first:
+      213: -1299815596468077112
+    second: TILE MAP FINAL_20
+  - first:
+      213: 5933857982488811115
+    second: TILE MAP FINAL_21
+  - first:
+      213: 9148474352654290420
+    second: TILE MAP FINAL_22
+  - first:
+      213: 1713605103402272494
+    second: TILE MAP FINAL_23
+  - first:
+      213: 7674858213104249500
+    second: TILE MAP FINAL_24
+  - first:
+      213: 7124871175204680234
+    second: TILE MAP FINAL_25
+  - first:
+      213: -2651654165030343888
+    second: TILE MAP FINAL_26
+  - first:
+      213: 5057155486339764405
+    second: TILE MAP FINAL_27
+  - first:
+      213: 8139544802790813156
+    second: TILE MAP FINAL_28
+  - first:
+      213: -2974639864045591512
+    second: TILE MAP FINAL_29
+  - first:
+      213: -6841967805370560973
+    second: TILE MAP FINAL_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILE MAP FINAL_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 217
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc903a0e2dd5d00800000000000000
+      internalID: 963157757576990040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834d6faf770b15c0800000000000000
+      internalID: -4243789978881145982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a327cfcf0066850800000000000000
+      internalID: 6369779809529248259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab2c7af66b104640800000000000000
+      internalID: 5062076110267493294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbef60bb4fdd72a0800000000000000
+      internalID: -6737983951300727868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc7ce7508901830800000000000000
+      internalID: 4039896015120616907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d81232b9d05b20800000000000000
+      internalID: 3121233901135649099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634dbc51233f14c80800000000000000
+      internalID: -8340117638473853898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e6527d4044bc470800000000000000
+      internalID: 8415895116252016131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e214cb66ee5e8b0800000000000000
+      internalID: -5123426876051608006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7121dc3dbbcb7a0800000000000000
+      internalID: -6360002055400974402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec2cdd94bbf8c390800000000000000
+      internalID: -7797706001630876434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dbb64f2a41beb90800000000000000
+      internalID: -7211647688185758451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7309bd6dfd4597d0800000000000000
+      internalID: -2912335833162251398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf3cf0047facc40800000000000000
+      internalID: 5533506946692545760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93dfdeb5a609dc50800000000000000
+      internalID: 6690386030377292703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 87
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406826325aad7800800000000000000
+      internalID: 611832394464911429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 87
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65154f7c08f314670800000000000000
+      internalID: 8521161792304730454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f27ad68b739890800000000000000
+      internalID: -7452477139247237617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 87
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57020338a5814e3e0800000000000000
+      internalID: -2025467155382787979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 87
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf10b0a9026fde0800000000000000
+      internalID: -1299815596468077112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669cd9656c495250800000000000000
+      internalID: 5933857982488811115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd0bbaf3f8e5fe70800000000000000
+      internalID: 9148474352654290420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c69133c2f7c710800000000000000
+      internalID: 1713605103402272494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6195b1e2928a60800000000000000
+      internalID: 7674858213104249500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22be7ca590a0e260800000000000000
+      internalID: 7124871175204680234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6e22069e633bd0800000000000000
+      internalID: -2651654165030343888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01331fe10ae2640800000000000000
+      internalID: 5057155486339764405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed29bb7fd875f070800000000000000
+      internalID: 8139544802790813156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a8d0ddc4f7b6d0800000000000000
+      internalID: -2974639864045591512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILE MAP FINAL_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8a3408827c01a0800000000000000
+      internalID: -6841967805370560973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
